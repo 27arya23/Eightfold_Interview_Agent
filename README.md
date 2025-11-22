@@ -26,13 +26,14 @@ Badges:
 
 1. The Launchpad  
    Configure role, experience level, and focus areas (e.g., System Design, Soft Skills).  
-   ![Landing Page](assets/landing_page.png)
+   ![Uploading landing_page.png.png…]()
 
-2. Real-Time Simulation  
+
+3. Real-Time Simulation  
    Voice-enabled interaction with "Thinking" indicators and dynamic typing effects. The AI adapts to your answers.  
    ![Live Interview](assets/interview_live.png)
 
-3. Performance Analytics  
+4. Performance Analytics  
    Instant feedback on Communication vs. Technical skills, with a detailed breakdown.  
    ![Dashboard](assets/analysis_dashboard.png)
 
@@ -133,4 +134,5 @@ Distributed under the MIT License. See LICENSE for details.
 ---
 
 Built with 💜
+
 
