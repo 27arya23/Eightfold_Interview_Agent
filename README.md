@@ -70,8 +70,8 @@ Prerequisites:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/mockmate-pro.git
-cd mockmate-pro
+https://github.com/27arya23/Eightfold_Interview_Agent.git
+cd Eightfold_Interview_Agent
 ```
 
 2. Create and activate a virtual environment
@@ -135,6 +135,7 @@ Distributed under the MIT License. See LICENSE for details.
 ---
 
 Built with 💜
+
 
 
 
